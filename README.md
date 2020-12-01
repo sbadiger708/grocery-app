@@ -29,4 +29,4 @@ step-4: Run Server
 2. npm install
 3. npm start
 
-SERVER START RUNNING ON PORT **5000** (http://localhost:5000/)
+SERVER START RUNNING ON PORT **5000** (API URL - http://localhost:5000/api/)

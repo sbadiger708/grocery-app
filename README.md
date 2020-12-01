@@ -22,11 +22,11 @@ step-3: Run Client
  2. npm install
  3. npm start
  
-SERVER START RUNNING ON PORT **3000**
+SERVER START RUNNING ON PORT **3000** (http://localhost:3000/)
 
 step-4: Run Server
 1. cd server/
 2. npm install
 3. npm start
 
-SERVER START RUNNING ON PORT **5000**
+SERVER START RUNNING ON PORT **5000** (http://localhost:5000/)

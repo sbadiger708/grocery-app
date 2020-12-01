@@ -18,13 +18,15 @@ Step-1: Clone code into system directory
 Step-2: Configure PostgresQL (for database table structure use **database.sql** file)
 
 step-3: Run Client
-       **cd client/**
-       npm install
-       **npm start**
+ 1. cd client/
+ 2. npm install
+ 3. npm start
+ 
 SERVER START RUNNING ON PORT **3000**
 
 step-4: Run Server
-        **cd server/**
-        npm install
-        **npm start**
+1. cd server/
+2. npm install
+3. npm start
+
 SERVER START RUNNING ON PORT **5000**
